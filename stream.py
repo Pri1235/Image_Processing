@@ -1,8 +1,8 @@
 import streamlit as st
-import pickle
+
 import numpy as np
 from PIL import Image
-import cv2
+
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
